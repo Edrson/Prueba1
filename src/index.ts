@@ -8,6 +8,9 @@ class Mensaje{
         console.log('2 Hello world from a class.')
         console.log('3 Hello  world from a class.')
         console.log('4 Hello  world from a class.')
+        console.log('XXx Hello  world from a class.')
+        console.log('XXx Hello  worldc from a class.')
+        console.log('77XXx Hello  worldc from a class.')
     }
 }
 let m = new Mensaje();
