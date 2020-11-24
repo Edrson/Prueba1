@@ -11,6 +11,7 @@ class Mensaje{
         console.log('XXx Hello  world from a class.')
         console.log('XXx Hello  worldc from a class.')
         console.log('77XXx Hello  worldc from a class.')
+        console.log('8XXx Hello  worldc from a class.')
     }
 }
 let m = new Mensaje();
